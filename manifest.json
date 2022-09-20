@@ -23,7 +23,7 @@
     
     "content_scripts":[{
 
-    "matches": ["http://example.com/"], //"https://example.com/"
+    "matches": ["https://example.com/"],
     "html": ["index.html"],
     "js": ["file.js"]
     }
